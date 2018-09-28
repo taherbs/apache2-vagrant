@@ -1,0 +1,10 @@
+{
+  "nodes": {
+    "apachenode01": {
+      ":ip": "192.168.32.5",
+      ":memory": 4096,
+      ":bootstrap": "bootstrap-scripts/bootstrap-apache.sh",
+      ":box": "ubuntu/xenial64"
+    }
+  }
+}

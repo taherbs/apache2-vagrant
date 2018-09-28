@@ -1,0 +1,5 @@
+# ignore Mac file
+.DS_Store
+#Ignore auto generated Vagrant files
+.vagrant
+*.log
